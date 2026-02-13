@@ -1,10 +1,11 @@
 # Two-Worlds-Modding-Guid
 
 Intro: A collection of community tools and guides for modding Two Worlds 1 (Epic Edition). These tools cover the essential steps needed to create, pack, and load custom map mods.
+
 ## Contents
 Mod Selector — A lightweight tool by Buglord that toggles mods on/off via the Windows registry. Place it in your game directory, run it, and use Enter to switch mods between active (green) and inactive (red). Works by setting HKCU\SOFTWARE\Reality Pump\TwoWorlds\Mods\<filename.wd> to 1 or 0.
 WD Repacker (Win32) — Buglord's GUI tool for packing and unpacking .wd archives (the mod format used by Two Worlds 1). Important: when packing, select the folder as source, not a .wd file. The repacker correctly handles .phx files by leaving them uncompressed — other packers may compress them, which causes crashes.
-Map Test EX.wd — A ready-made test mod by JadetheReaper. Use this to verify your mod setup works before building your own mods. Copy it to <Game>\Mods\, activate with the Mod Selector, and start a new game.
+
 ## Quick Start
 
 Install the Two Worlds SDK (available on ModDB)
