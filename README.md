@@ -28,7 +28,7 @@ Plus ein Hinweis: "The s suffix and any extra characters after the first two dig
 ## Credits
 
 - Buglord — Mod Selector, WD Repacker, wdio.py, registry research --> https://github.com/buglord/Two-Worlds-1-Misc-Projects/tree/main
-- JadetheReaper — conversion process documentation
+- JadetheReaper & smoothness — conversion process documentation
 - Reality Pump Studios — Two Worlds SDK
 
 ## Links
