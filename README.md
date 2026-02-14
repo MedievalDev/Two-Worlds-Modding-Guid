@@ -19,7 +19,7 @@ Editor Map (Saves/Levels/Map_F01s.lnd)
 Plus ein Hinweis: "The s suffix and any extra characters after the first two digits must be removed when renaming — mod files must match the vanilla filenames exactly."
 ## Credits
 
-- Buglord — Mod Selector, WD Repacker, wdio.py, registry research --> https://github.com/buglord/Two-Worlds-1-Misc-Projects/tree/main
+- Buglord — Mod Selector, WD Repacker, wdio.py, registry research --> https://github.com/buglord/Two-Worlds-1-Misc-Projects/tree/main -> https://www.moddb.com/games/two-worlds/downloads/two-worlds-1-wd-repacker
 - JadetheReaper & smoothness — conversion process documentation
 - Reality Pump Studios — Two Worlds SDK
 
